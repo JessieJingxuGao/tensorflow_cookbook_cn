@@ -18,17 +18,17 @@ Build: [![Build Status](https://travis-ci.org/nfmcclure/tensorflow_cookbook.svg?
 Table of Contents
 =================
 
-  * [Ch 1: Getting Started with TensorFlow](#ch-1-getting-started-with-tensorflow)
-  * [Ch 2: The TensorFlow Way](#ch-2-the-tensorflow-way)
-  * [Ch 3: Linear Regression](#ch-3-linear-regression)
-  * [Ch 4: Support Vector Machines](#ch-4-support-vector-machines)
-  * [Ch 5: Nearest Neighbor Methods](#ch-5-nearest-neighbor-methods)
-  * [Ch 6: Neural Networks](#ch-6-neural-networks)
-  * [Ch 7: Natural Language Processing](#ch-7-natural-language-processing)
-  * [Ch 8: Convolutional Neural Networks](#ch-8-convolutional-neural-networks)
-  * [Ch 9: Recurrent Neural Networks](#ch-9-recurrent-neural-networks)
-  * [Ch 10: Taking TensorFlow to Production](#ch-10-taking-tensorflow-to-production)
-  * [Ch 11: More with TensorFlow](#ch-11-more-with-tensorflow)
+  * [第1章：Tensorflow 起步](#ch-1-getting-started-with-tensorflow)
+  * [第2章：Tensorflow 进阶](#ch-2-the-tensorflow-way)
+  * [第3章：线性回归（Linear Regression）](#ch-3-linear-regression)
+  * [第4章：支持向量机（Support Vector Machines）](#ch-4-support-vector-machines)
+  * [第5章：最近领域法（Nearest Neighbor Methods）](#ch-5-nearest-neighbor-methods)
+  * [第6章：神经网络（Neural Networks）](#ch-6-neural-networks)
+  * [第7章：自然语言处理（Natural Language Processing）](#ch-7-natural-language-processing)
+  * [第8章：卷积神经网络（Convolutional Neural Networks）](#ch-8-convolutional-neural-networks)
+  * [第9章：递归神经网络（Recurrent Neural Networks）](#ch-9-recurrent-neural-networks)
+  * [第10章：TensorFlow 产品化](#ch-10-taking-tensorflow-to-production)
+  * [第11章：TensorFlow 更多应用](#ch-11-more-with-tensorflow)
 
 ---
 
